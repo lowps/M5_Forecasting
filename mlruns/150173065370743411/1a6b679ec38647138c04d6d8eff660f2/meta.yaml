@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/150173065370743411/1a6b679ec38647138c04d6d8eff660f2/artifacts
+deleted_time: 1740421857139
+end_time: 1740420087544
+entry_point_name: ''
+experiment_id: '150173065370743411'
+lifecycle_stage: deleted
+run_id: 1a6b679ec38647138c04d6d8eff660f2
+run_name: salty-lamb-483
+run_uuid: 1a6b679ec38647138c04d6d8eff660f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740419983559
+status: 4
+tags: []
+user_id: ericklopez

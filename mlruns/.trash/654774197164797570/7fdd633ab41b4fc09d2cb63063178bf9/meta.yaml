@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/654774197164797570/7fdd633ab41b4fc09d2cb63063178bf9/artifacts
+deleted_time: 1740420849641
+end_time: 1740420443213
+entry_point_name: ''
+experiment_id: '654774197164797570'
+lifecycle_stage: deleted
+run_id: 7fdd633ab41b4fc09d2cb63063178bf9
+run_name: sneaky-horse-606
+run_uuid: 7fdd633ab41b4fc09d2cb63063178bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740420196303
+status: 4
+tags: []
+user_id: ericklopez

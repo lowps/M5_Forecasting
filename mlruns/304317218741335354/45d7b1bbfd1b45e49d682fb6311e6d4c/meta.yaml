@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304317218741335354/45d7b1bbfd1b45e49d682fb6311e6d4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '304317218741335354'
+lifecycle_stage: active
+run_id: 45d7b1bbfd1b45e49d682fb6311e6d4c
+run_name: ambitious-colt-474
+run_uuid: 45d7b1bbfd1b45e49d682fb6311e6d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740421210578
+status: 1
+tags: []
+user_id: ericklopez

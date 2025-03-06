@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/150173065370743411/c31f46e988de4f549d08d3a60b4208ea/artifacts
+deleted_time: 1740421857142
+end_time: 1740418781618
+entry_point_name: ''
+experiment_id: '150173065370743411'
+lifecycle_stage: deleted
+run_id: c31f46e988de4f549d08d3a60b4208ea
+run_name: bold-bat-758
+run_uuid: c31f46e988de4f549d08d3a60b4208ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740418781569
+status: 4
+tags: []
+user_id: ericklopez

@@ -1,0 +1,5 @@
+[flake8]
+max-line-lenth = 120
+extend-=ignore = E203, E704, F401
+ignore = F401
+extend-select = D1, D4, ANN001 #Enforce docstring rules & Annotations

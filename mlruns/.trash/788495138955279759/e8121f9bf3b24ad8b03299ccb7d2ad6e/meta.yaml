@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/788495138955279759/e8121f9bf3b24ad8b03299ccb7d2ad6e/artifacts
+deleted_time: 1740420847204
+end_time: 1740420179233
+entry_point_name: ''
+experiment_id: '788495138955279759'
+lifecycle_stage: deleted
+run_id: e8121f9bf3b24ad8b03299ccb7d2ad6e
+run_name: sneaky-fly-631
+run_uuid: e8121f9bf3b24ad8b03299ccb7d2ad6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740420099875
+status: 4
+tags: []
+user_id: ericklopez

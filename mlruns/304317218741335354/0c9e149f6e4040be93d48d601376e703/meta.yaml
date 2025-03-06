@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304317218741335354/0c9e149f6e4040be93d48d601376e703/artifacts
+end_time: 1740421562444
+entry_point_name: ''
+experiment_id: '304317218741335354'
+lifecycle_stage: active
+run_id: 0c9e149f6e4040be93d48d601376e703
+run_name: incongruous-bird-54
+run_uuid: 0c9e149f6e4040be93d48d601376e703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740421532710
+status: 4
+tags: []
+user_id: ericklopez
